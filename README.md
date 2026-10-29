@@ -531,4 +531,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
 
-- [awai-mm/practical-data-tools](https://github.com/awai-mm/practical-data-tools) - Zero-dependency Python MCP server for deterministic N-to-M subset-sum accounting reconciliation, Monte Carlo (s,S) inventory & CVaR cashflow optimization, Solidity smart contract formal invariant auditing, and broken JSON/CSV schema repair.
+- **[awai-mm/practical-data-tools](https://github.com/awai-mm/practical-data-tools)** - Zero-dependency Python MCP server for deterministic N-to-M subset-sum accounting reconciliation, Monte Carlo (s,S) inventory & CVaR cashflow optimization, Solidity smart contract formal invariant auditing, and broken JSON/CSV schema repair.
